@@ -695,42 +695,5 @@ demo.gif
 or link a short video here:
 
 ```markdown
-[▶️ Watch the 2–4 minute demo](YOUR_VIDEO_LINK)
+[▶️ Watch the 2–4 minute demo]([YOUR_VIDEO_LINK](https://www.loom.com/share/3bc73ec0297a4ad9a5c7c72ca00619fc))
 ```
-
----
-
-# 📌 Submission Checklist
-
-```text
-[✓] Application source code
-[✓] Tests
-[✓] Evaluation suite
-[✓] 5 original regression cases
-[✓] Setup / run instructions
-[✓] Architecture
-[✓] Baseline + final results
-[✓] Category breakdown
-[✓] Bug diary
-[✓] Known limitations
-[✓] AI coding-tool disclosure
-[✓] Minimal CLI
-[✓] Source citations
-[✓] Privacy / prompt-injection handling
-[✓] Conflict handling
-[✓] Abstention
-[✓] .env.example
-[✓] .gitignore
-[ ] Demo GIF / video added
-[ ] Final GitHub push
-```
-
----
-
-# 🚀 Submission
-
-**GitHub Repository**
-
-👉 https://github.com/Apujadhav/ai-agent-intern-test.git
-
-The final submission is the GitHub repository link.
