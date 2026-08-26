@@ -694,6 +694,5 @@ demo.gif
 
 or link a short video here:
 
-```markdown
 [▶️ Watch the 2–4 minute demo](https://www.loom.com/share/3bc73ec0297a4ad9a5c7c72ca00619fc)
-```
+
